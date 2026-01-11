@@ -1,4 +1,4 @@
-![logo](https://github.com/Dhammadeep-Tuljapure/Dhammadeep-Tuljapure/blob/main/Github%20Banner.png)
+![logo](https://github.com/Dham1320/Dham1320/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Dhammadeep Tuljapure</h1>
 <h3 align="center">A Passionate Web-Developer Engineer From India</h3>
 
