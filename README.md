@@ -42,7 +42,7 @@
 ```yaml
 profile:
   name: "Dhammadeep Tuljapure"
-  role: "Android Developer & AI/ML Engineer"
+  role: "Android Developer & CSE Engineer"
   education: "B.Tech, Computer Science & Business Systems — VTU (CGPA 8.01/10)"
   focus: ["Android Development", "Applied AI/ML", "Data Analytics & BI"]
 ```
